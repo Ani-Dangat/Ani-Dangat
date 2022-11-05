@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Athul.</h2>
 <p align="center">
   <a href="https://www.instagram.com/ani.dangat/">Instagram</a> •
-  <a href="https://twitter.com/anii_dangat">Twitter</a>
+  <a href="https://twitter.com/ani_dangat">Twitter</a>
 </p>
 
 
