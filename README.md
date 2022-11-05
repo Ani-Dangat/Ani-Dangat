@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @Ani-Dangat
-- 👀 I’m interested in Coding, Music and Dance
-- 🌱 I’m currently learning MEAN Stack
-- 💞️ I’m looking to collaborate on Front End Projects
-- 📫 How to reach me :
-- Instagram: ani.dangat
+<h2 align="center">👋 Hello! I'm Athul.</h2>
+<p align="center">
+  <a href="https://www.instagram.com/ani.dangat/">Instagram</a> •
+  <a href="https://twitter.com/anii_dangat">Twitter</a>
+</p>
 
-<!---
-Ani-Dangat/Ani-Dangat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🔭 I’m currently working at [Infosys](https://www.infosys.com/)
+- 🌱 I’m currently learning more on Observability and better DevOps Practices
+- 💬 Ask me about **Front End , Angular and WebDev**
+- 📫 How to reach me: [@ani.dangat](https://www.instagram.com/ani.dangat/) on Instagram
+- ⚡ Fun fact: Can dance on any music
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+-------
