@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔭 I’m currently working at [Infosys](https://www.infosys.com/)
+- 🔭 I’m currently working at [Infosys](https://www.infosys.com/) as **Digital Specialist Engineer**
 - 🌱 I’m currently learning more on Observability and better DevOps Practices
 - 💬 Ask me about **Front End , Angular and WebDev**
 - 📫 How to reach me: [@ani.dangat](https://www.instagram.com/ani.dangat/) on Instagram
